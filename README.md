@@ -12,4 +12,6 @@
     - Random Forest
     - Naive Bayes
     - K Nearest Neighbor
+    - support vector machine
+    - xtreme gradient boosting
 ### of which Random Forest was the better model. 
